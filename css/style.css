@@ -100,7 +100,7 @@ body {
     align-items: center;
     border-radius: 10px;
 }
-.sec-cont:hover{
+.all:hover{
     background-color: #ebe9e9;
     cursor: pointer;
 }
@@ -141,6 +141,7 @@ body {
     font-weight: 600;
 }
 .circal{
+    margin-top: 5px;
     background-color: rgb(24, 226, 24);
     border-radius: 50%;
     height: 30px;
